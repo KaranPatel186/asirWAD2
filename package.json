@@ -1,5 +1,5 @@
 {
-  "name": "asirWebsite",
+  "name": "asirwebsite",
   "version": "1.0.0",
   "description": "Web Application for WAD2 Coursework 2",
   "keywords": [
@@ -31,12 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FionaMacRaeFairlie/lab10-git.git"
+    "url": "git+https://github.com/KaranPatel186/asirWAD2.git"
   },
   "bugs": {
-    "url": "https://github.com/FionaMacRaeFairlie/lab10-git/issues"
+    "url": "https://github.com/KaranPatel186/asirWAD2"
   },
-  "homepage": "https://github.com/FionaMacRaeFairlie/lab10-git#readme",
+  "homepage": "https://github.com/KaranPatel186/asirWAD2#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
   }
